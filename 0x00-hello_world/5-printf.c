@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Contains main section of program
+ * main - Always exist in a program
  *
- * Return - 0 means success
+ * Return: 0 means success
  */
 int main(void)
 {
