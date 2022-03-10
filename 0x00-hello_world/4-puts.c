@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
- * main - Should always exist in a c program 
+ * main - Always exist in a program
  *
- * return - 0 means success
+ * Return: 0 means success
  */
 int main(void)
 {
