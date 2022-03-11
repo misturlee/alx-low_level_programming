@@ -1,12 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
- * main - Code to determine random numbers
+/**
+ * main - Always exist in a program
  *
- *Return: 0 is success
+ * Return: 0 means success
  */
-
 /* betty style doc for function main goes there */
 int main(void)
 {
