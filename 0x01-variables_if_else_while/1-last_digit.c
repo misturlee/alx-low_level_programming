@@ -5,6 +5,7 @@
  * main - To check which number is greater
  *
  * Return: 0 means success
+ */
 /* betty style doc for function main goes there */
 int main(void)
 {
