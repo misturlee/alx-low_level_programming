@@ -3,9 +3,9 @@
 /**
  * reset_to_98 - updates the value of the variable
  * the pointer points to to 98
- * @n: pointer to the variable to update
+ * @s: pointer to the variable to update
  */
-void reset_to_98(int *n)
+int _atoi(char *s);
 {
-	*n = 98;
+	*s = 98;
 }
